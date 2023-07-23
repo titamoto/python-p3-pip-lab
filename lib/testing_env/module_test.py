@@ -1,4 +1,4 @@
-from versions import (
+from lib.testing_env.versions import (
     python_version,
     requests_version,
     pytest_version
